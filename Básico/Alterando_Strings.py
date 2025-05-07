@@ -10,7 +10,7 @@ print(s1)
 print('' .join(s1))
 # Agora posoo mudar
 
-s1[0]='a'
+s1[0]='Alteração'
 
 print(s1)
 
