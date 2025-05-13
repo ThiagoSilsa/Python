@@ -13,7 +13,7 @@ def cadastrar_categoria(nome):
 
 
 def cadastrar_transacao(descricao, valor, categoria):
-    nova_transacao = Transacao(descricao=descricao, valor = valor , categoria=categoria)
+    nova_transacao = Transacao(descricao=descricao, valor=valor, categoria=categoria)
     LISTA_TRANSACOES.append(nova_transacao)
     return nova_transacao
 
