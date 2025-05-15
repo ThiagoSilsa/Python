@@ -18,4 +18,3 @@ pessoa1 = Pessoa("Thiago", 1.75, 24)
 print(f'O {pessoa1.nome} tem {pessoa1.altura} cm de altura e {pessoa1.idade} anos')
 pessoa1.comer()
 pessoa1.correr()
-

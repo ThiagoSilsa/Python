@@ -7,10 +7,10 @@ class MinhaClasse:
         print(self.atributo_1[1] + num)
         return "Olá mundo"
 
+
 # Objeto
 
 objeto1 = MinhaClasse()
 
 resposta = objeto1.metodo_1(5)
 print(resposta)
-
